@@ -29,3 +29,4 @@ if __name__ == '__main__':
     Flag = True
     while Flag:
         Flag = add_log(input())
+# for test
